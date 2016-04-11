@@ -17,6 +17,8 @@ When you want to experimentally try something new and don't want it to affect yo
 
 5. How do the diagrams help you visualize the branch structure?
 
+With the diagrams, you can see clearly what your branches contain and what they don't contain. You will also know whether the branch is reachable and whether you need a new branch for your current head.
+
 6. What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
