@@ -1,0 +1,31 @@
+How to Use Git and GitHub
+Reflections
+
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It was helpful because when you found your progame stop working, you can check the latest worked version and just focus on their difference and determine where the bug is.
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It give you the idea how the program evolved and give you a access to the previous code if you regret some change you did.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+I think a commit is better. It will give you more flexibility and the auto save may not have any meaning or even error. You can also make all of you commit with single changing meaning and comment it when you submit the commit which will make everything clear.
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+When making a program or app, that's a high possibility that two file are closely related. For example, the HTML and CSS file, if you change one, you will probably need to change the other one two. Keep track the change of both files is really important in this case.
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+Firstly cd into the repository, use the git log cmd to see the change time and comment of each commit, then use git diff cmd to see the specify changes between two commits with their IDs
+
+
+6. How might using version control make you more confident to make changes that could break something?
+
+With version control, if you accidentally introduced some bugs into the code, you can identify the bug quickly and fix it when compare the version you store. It give you the gut to do something big without the risk to lose the whole process you own right now.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Try to start a android project with git for the version control.
