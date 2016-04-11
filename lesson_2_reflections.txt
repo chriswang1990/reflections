@@ -1,9 +1,11 @@
-What happens when you initialize a repository? Why do you need to do it?
+1. What happens when you initialize a repository? Why do you need to do it?
 
 It will initialize a git repository with 0 commit in it, and create the .git file. With the repository you get access to the version control and all the benefit mentioned in lesson 1.
 
-How is the staging area different from the working directory and the repository?
+2. How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+It give you the chance to choose which file you want to change and make your commit, more flexibility in your commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
