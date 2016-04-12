@@ -18,8 +18,8 @@ It give you the idea how is the original remote copy look like and help you deci
 
 5. How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+We may need to send our code back and forward when we make changes and give lots of comment in the code to help each other understand what we have changed. With github, we can easily commit and update our version in branch and see clearly we changes the other people made, discuss and merge the change in the master eventually.
 
 6. When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+When I am doing some experimental attempting and don't want to affect the master branch before fully test, I need to use a separate branch to keep my master branch clean. However, keep working on the master branch will make each commit and merge easier.
