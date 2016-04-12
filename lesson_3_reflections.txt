@@ -2,14 +2,15 @@
 
 When I want to collaborate with other people in a big project or when I need work on different computers for the same project.
 
-2. Why might you want to always pull changes manually rather than having Git
-automatically stay up-to-date with your remote repository?
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+If Git just automatically stay up-to-date with my remote repository, my unfinished work may go public before it actually work, I need to control when I want to update my remote repository.
 
 3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-    Fill in your answer here
+Forks is cloning a repository from others public repository, it will record where the original repository is and make it easy for you to submit changes to the original one. 
+Clones simply mean make a copy of the whole repository, you can do it within you local environment, between your local and remote repository, or from other online resources. 
+Branches store your new features or experimental ideas while not touching your master version. So you will always have a workable(official) version.
 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
