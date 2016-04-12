@@ -23,5 +23,6 @@ With the diagrams, you can see clearly what your branches contain and what they 
 
 After merging, one branch is merged into the other as a new commit in the checked out branch, all the changes made by the two branches after they branching will be carried on to this commit.
 
-7. What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
-manually?
+7. What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Git's automatic merging save lots of the time when merging by updating all the changes to one commit, however, the con is, it may also generate some unreasonable code.
