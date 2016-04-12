@@ -14,7 +14,7 @@ Branches store your new features or experimental ideas while not touching your m
 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
-    Fill in your answer here
+It give you the idea how is the original remote copy look like and help you decide whether your local changes are enough for a new remote update.
 
 5. How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
