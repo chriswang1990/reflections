@@ -19,8 +19,9 @@ When you want to experimentally try something new and don't want it to affect yo
 
 With the diagrams, you can see clearly what your branches contain and what they don't contain. You will also know whether the branch is reachable and whether you need a new branch for your current head.
 
-6. What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+After merging, one branch is merged into the other as a new commit in the checked out branch, all the changes made by the two branches after they branching will be carried on to this commit.
 
 7. What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
